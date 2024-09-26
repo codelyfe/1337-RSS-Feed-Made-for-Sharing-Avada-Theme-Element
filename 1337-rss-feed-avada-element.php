@@ -1,7 +1,6 @@
 <?php
 /*
 Plugin Name: 1337 RSS Feed | Made for Sharing - Avada Element
-Plugin URI: https://wordpress.org/plugins/1337-rss-feed-made-for-sharing/
 Description: A highly customizable RSS Feed widget as an Avada Fusion Builder Element.
 Version: 0.6.4
 Author: codelyfe@gmail.com
