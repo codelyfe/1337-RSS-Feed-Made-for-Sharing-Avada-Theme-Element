@@ -4,7 +4,7 @@ Plugin Name: 1337 RSS Feed | Made for Sharing - Avada Element
 Description: A highly customizable RSS Feed widget as an Avada Fusion Builder Element.
 Version: 0.6.4
 Author: codelyfe@gmail.com
-Author URI: https://www.paypal.me/codelyfe
+Author URI: https://shipwr3ck.com
 Text Domain: LightWRSSFeed
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
